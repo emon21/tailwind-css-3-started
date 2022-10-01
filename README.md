@@ -1,8 +1,4 @@
-<p align="center">
-    <a href="#" target="_blank">
-        <img src="img/tailwind-css.png" width="400">
-    </a>
-</p>
+
 <p align="center">
     <a href="#" target="_blank">
         <img src="img/Tailwind_CSS_logo.svg.png" width="400">
